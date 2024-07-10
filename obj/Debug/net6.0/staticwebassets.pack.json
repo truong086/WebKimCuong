@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\css\\swiper.css",
+      "PackagePath": "staticwebassets\\css\\swiper.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\fonts\\beyond_the_mountains.otf",
+      "PackagePath": "staticwebassets\\fonts\\beyond_the_mountains.otf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\fonts\\beyond_the_mountains.ttf",
+      "PackagePath": "staticwebassets\\fonts\\beyond_the_mountains.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\about-us-background.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\about-us-content-image.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-content-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\about-us-header-background.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\black-chick.jpg",
+      "PackagePath": "staticwebassets\\images\\black-chick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-header-background.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-image-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-image-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-image-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-image-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\blog-page-background.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-page-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\box.jpg",
+      "PackagePath": "staticwebassets\\images\\box.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\button.png",
+      "PackagePath": "staticwebassets\\images\\button.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\contact-background-image.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-background-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\contact-header-background.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\contact-map.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\cover.jpg",
+      "PackagePath": "staticwebassets\\images\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\elements-header-background.jpg",
+      "PackagePath": "staticwebassets\\images\\elements-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\elements-total-background.jpg",
+      "PackagePath": "staticwebassets\\images\\elements-total-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\eric-ward.jpg",
+      "PackagePath": "staticwebassets\\images\\eric-ward.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\footer-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-4.jpg",
+      "PackagePath": "staticwebassets\\images\\image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-5.jpg",
+      "PackagePath": "staticwebassets\\images\\image-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-6.jpg",
+      "PackagePath": "staticwebassets\\images\\image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-7.jpg",
+      "PackagePath": "staticwebassets\\images\\image-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\image-8.jpg",
+      "PackagePath": "staticwebassets\\images\\image-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\mail.jpg",
+      "PackagePath": "staticwebassets\\images\\mail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\main-content-background.jpg",
+      "PackagePath": "staticwebassets\\images\\main-content-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\mathew-kane.jpg",
+      "PackagePath": "staticwebassets\\images\\mathew-kane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\middle-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\middle-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\news-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\news-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\news-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\news-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\next-event-1.jpg",
+      "PackagePath": "staticwebassets\\images\\next-event-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\next-event-2.jpg",
+      "PackagePath": "staticwebassets\\images\\next-event-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\next-event-3.jpg",
+      "PackagePath": "staticwebassets\\images\\next-event-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\phone.jpg",
+      "PackagePath": "staticwebassets\\images\\phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\place.jpg",
+      "PackagePath": "staticwebassets\\images\\place.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\slider-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\testimonial-user.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\tickets-map.jpg",
+      "PackagePath": "staticwebassets\\images\\tickets-map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\images\\tickets-page-header-background.jpg",
+      "PackagePath": "staticwebassets\\images\\tickets-page-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\js\\circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\jquery.collapsible.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.collapsible.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\jquery.countTo.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\swiper.js",
+      "PackagePath": "staticwebassets\\js\\swiper.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GiaoDienVueJs\\DoAnCuaKhach\\ReactTemplate\\BanChuan\\WebKimCuong\\WebKimCuong\\WebKimCuong\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebKimCuong.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebKimCuong.props",
+      "PackagePath": "build\\WebKimCuong.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebKimCuong.props",
+      "PackagePath": "buildMultiTargeting\\WebKimCuong.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebKimCuong.props",
+      "PackagePath": "buildTransitive\\WebKimCuong.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

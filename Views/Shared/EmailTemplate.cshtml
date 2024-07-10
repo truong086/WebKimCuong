@@ -1,0 +1,30 @@
+﻿@using thuongmaidientus1.ViewModel;
+@model SendEmail
+@{
+    string? base64String = Model.iamge;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Template</title>
+</head>
+<body>
+    
+    @if (!string.IsNullOrEmpty(base64String))
+    {
+        string imageBase64 = string.Format("data:image/png;base64,{0}", base64String);
+        // Hiển thị ảnh từ chuỗi Base64
+        @* <img src="data:image/png;base64,@base64String" alt="Ảnh từ dữ liệu Base64" /> *@
+        <div style="width: 100%; background-image: url('https://4.bp.blogspot.com/-Tw7GcaZaM8Y/VvAQbOdZi7I/AAAAAAAAAac/ohZQf1brXK8RXynPzMIkthitiVkb654dw/s640/hinh-nen-may-tinh-dep-nhat-05.jpg'); background-size: cover; background-repeat:no-repeat; height: 500px; text-align: center; padding: 60px 0;">
+            <div>
+                <h1 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hello anh em đã đến với Web của tôi</h1>
+                <p style="color: red; font-family: Arial; font-weight: bold;">Hello, @Model.name!</p>
+                <h2 style="color: yellow">Đây là mã xác nhận của anh em vui lòng không tiết lộ cho bất kỳ thằng nào @Model.active</h2>
+            </div>
+        </div>
+    }
+    else
+    {
+        <p>Không có dữ liệu ảnh</p>
+    }
+</body>
